@@ -3,8 +3,11 @@ import requests
 import urllib
 import csv
 
+YEAR = 2020 # Change this to select which year's data to parse/analyse 
+
 def parser(): # Parses super PAC data from OpenSecrets database
-	soup = bs(open("OpenSecrets.html"),"html.parser") # We have the file downloaded as the website uses a Captcha
+	fileName = "OpenSecrets-" + str(YEAR) + ".html"
+	soup = bs(open(fileName),"html.parser") # We have the file downloaded as the website uses a Captcha
 
 	table = soup.find("table", class_="DataTable datadisplay dataTable no-footer")
 
@@ -65,7 +68,8 @@ def analyser(pacList): # Puts together list of all the words that occur in PAC n
 	for i in wordList:
 		print(i[0], i[1], i[2], i[3])
 
-	with open("pacWords.csv", mode='w', encoding = "UTF-8") as pacWords: # Write results to csv
+	csvName = "superPACs-" + str(YEAR) + ".csv"
+	with open(csvName, mode='w', encoding = "UTF-8") as pacWords: # Write results to csv
 		fieldnames = ["Name", "Lean", "Money", "Frequency"]
 		writer = csv.DictWriter(pacWords, fieldnames=fieldnames)
 		writer.writeheader()
