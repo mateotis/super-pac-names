@@ -1,572 +1,845 @@
-Name,Money,Lean
-Senate Leadership Fund,293731548,C
-Senate Majority PAC,229900166,L
-Congressional Leadership Fund,142783829,C
-America First Action,133819980,C
-Preserve America PAC,102983479,C
-American Crossroads,79476031,C
-Club for Growth Action,65478421,C
-American Bridge 21st Century,59719576,L
-Independence USA PAC,56530420,L
-The Lincoln Project,49686216,L
-LCV Victory Fund,42266508,L
-Unite the Country,38923591,L
-Peachtree PAC,37845500,C
-Women Vote!,36769678,L
-Black PAC,32453441,L
-Americans for Prosperity Action,31997404,C
-Everytown for Gun Safety Victory Fund,21197688,L
-Georgia United Victory,20787073,C
-Restoration PAC,19777016,C
-NRA Victory Fund,19497530,C
-Georgia Honor,19220880,L
-DefendArizona,17048886,C
-Family Friendly Action PAC,16012716,L
-The Georgia Way,15737253,L
-Plains PAC,15059744,C
-Persist PAC,14784334,L
-Women Speak Out PAC,14501237,C
-Security Is Strength,13745831,C
-National Assn of Realtors,13406493,X
-Pacronym,13171426,L
-Keep Kentucky Great,13044662,C
-NextGen Climate Action,12580380,L
-Better Future Michigan Fund,11641924,C
-Planned Parenthood Votes,10542595,L
-1820 PAC,10387507,C
-EDF Action Votes,9861628,L
-Republican Voters Against Trump,8958891,L
-For Our Future,8735244,L
-Protect Freedom PAC,8637504,C
-Change Now PAC,8094477,L
-Take Back 2020,8059126,L
-North Star PAC,6945398,L
-Citizens for Free Enterprise,6904675,C
-Duty & Country PAC,6622923,L
-Ending Spending Action Fund,6554317,C
-With Honor Fund,6520697,X
-House Freedom Action,6130380,C
-Republican Jewish Coalition Victory Fund,6055340,C
-Somos PAC,5693319,L
-NEA Advocacy Fund,5534657,L
-Our American Century,5500000,C
-Nuestro PAC,5344916,L
-Win Justice PAC,5334932,L
-Sunflower State PAC,5298532,L
-Americas PAC,5156549,C
-Georgia Action Fund,5083672,C
-Union 2020,4839217,L
-Carolina Blue,4518796,L
-Opportunity Matters Fund,4507239,C
-Alliance for a Better Minnesota,4424269,L
-Montana Hunters & Anglers Leadership Fund,4342650,L
-New Leadership PAC,4118148,L
-Somos Votantes,3983541,L
-Sierra Club Independent Action,3739145,L
-Working Arizona PAC,3710173,L
-Patients for Affordable Drugs Action,3703479,L
-Future45,3686908,C
-Maine Way PAC,3550404,C
-Center Forward Cmte,3398742,L
-United We Can,3357353,L
-New American Jobs Fund,3351017,L
-American Principles Project,3326181,C
-Defending Main Street,3324227,C
-NRDC Action Votes,3298452,L
-UNITE HERE PAC,3112804,L
-Save America Fund,3019690,L
-Faith & Power PAC,2928287,C
-FreedomWorks for America,2783755,C
-Forward California,2723036,L
-Kitchen Table Conversations,2710262,L
-Human Rights Campaign Equality Votes,2681977,L
-Georgia Balance,2575000,C
-Meidastouch,2521567,L
-National Right To Life Victory Fund,2458661,C
-Americans for Tomorrow's Future,2417699,X
-Fair Share Action,2344073,L
-Iowa Values Action,2204464,C
-Independent Alaska,2119199,L
-Working Families Party,2089585,L
-One for All Cmte,2044099,L
-Our Future United,2034600,L
-Black Americans to Re-Elect the President,1976596,C
-True Kentucky Patriots,1957857,X
-Gun Owners Action Fund,1951301,C
-Hard Hats for America,1836488,L
-Act Now On Climate,1780481,L
-Moms for Safe Neighborhoods,1779137,C
-Planned Parenthood of Michigan,1726257,L
-Conservative Outsider PAC,1597106,C
-Truth & Justice Fund,1593208,L
-Working People Rising Super PAC,1567613,L
-America's Future Majority Fund,1521541,L
-Let's Turn Colorado Blue,1499247,L
-Supermajority PAC,1496513,L
-Priorities for Iowa,1496504,C
-For Our Families PAC,1457169,L
-Black Voters Matter Action PAC,1448234,L
-American Liberty Fund,1443365,C
-Millions of Michiganians,1432042,L
-LMG PAC,1419955,L
-ClearPath Action,1409800,C
-Governing Majority Fund,1360402,C
-Standing With Conservatives,1326115,C
-Community Change Voters,1307173,L
-Texas Forward,1251993,L
-Committee to Protect Medicare,1242003,L
-NARAL Freedom Fund,1228348,L
-Save the US Senate PAC,1224698,C
-Defeat by Tweet,1200000,L
-Liberty South Carolina,1131633,C
-Asian American Advocacy Fund PAC,1105443,L
-Keep Kansas Great PAC,1065932,C
-America's Progressive Promise PAC,1056086,L
-American Patriots PAC,1055396,C
-Senate Conservatives Action,1051936,C
-Really American PAC,1050964,L
-Care in Action PAC,1024340,L
-Trump Doomsday PAC,1022574,L
-Tea Party Patriots Citizens Fund,1017917,C
-American Working Families,1013025,L
-Patriot Majority,979028,L
-Keep America America Action Fund,962425,C
-Votar Es Poder PAC,944027,L
-United We Win,936743,L
-One Country Fund,932048,L
-Black Vote Pennsylvania,911875,L
-Illinois Conservatives PAC,910100,C
-"More Jobs, Less Government",894904,C
-Future Progress,880006,L
-Casa in Action PAC,867118,L
-Grow NC Strong,866051,C
-Fix Congress Now!,859222,C
-Turnout Project,816085,L
-The Collective Super PAC,811858,L
-United for Progress,806718,L
-Louisiana Legacy PAC,798200,C
-Heartland Resurgence,790229,C
-Vote Nurses Values PAC,784771,L
-Stop 45 PAC,780318,L
-United We Dream Action PAC,774481,L
-Center for Essential Information,763319,L
-New South Super PAC,731684,L
-ProgressNow Arizona,729519,L
-Unite to Win,701681,L
-Fighting for Alabama Fund,680300,C
-Right Women PAC,676071,C
-Miles of Greatness Fund,669943,C
-Valor America,664150,C
-South Florida Residents First,656141,C
-Battleground Georgia,618200,L
-TakeAction Minnesota,602365,L
-Committee for Stronger Rural Communities,600388,L
-American Policy Fund,594990,C
-Artists United for Change,581290,L
-American Conservative Union Super PAC,579375,C
-Just the Truth PAC,571167,L
-Take Back the West PAC,567442,C
-Special Operations For America,546016,C
-Tea Party PAC,539000,C
-Experienced Leadership Matters PAC,532620,L
-Law Enforcement for a Safer America PAC,518177,C
-Democratic Progress,493838,L
-Unidosus Action PAC,489626,L
-American Unity PAC,489248,C
-Fired Up PAC,488069,C
-The Nine PAC,486178,L
-MATH PAC,475991,L
-Planned Parenthood/Minnesota,450814,L
-Democracy Preservation Initiative,444436,L
-Environment America Action Fund,439981,L
-Grit PAC,438580,C
-United Food & Commercial Workers Advcy,433631,L
-Americans for Police & Trooper Safety,430500,X
-Concerned Conservatives Inc,424646,C
-US Future Fund,417998,C
-Common Sense New Mexico,404478,C
-UNITE HERE Local 6,399970,L
-American Values First,397171,C
-Hunter Action Fund,392163,C
-Economic Justice For All,389574,L
-Ag Together PAC,385540,C
-Heartland USA PAC,382484,C
-National Nurses United for Patient Protection,382402,L
-Career Education PAC,380000,C
-Working Michigan,379999,L
-Americans for All,379000,L
-America One PAC,375000,C
-New Journey PAC,374712,C
-Operating Engineers Union EARN,374000,L
-Conservatives Acting Together PAC,363754,C
-Future Leaders Fund,362385,C
-Florida Freedom PAC,362344,L
-Coalition for American Veterans,357724,C
-Keep Pennsylvania Great,350276,C
-FedUp PAC,348877,C
-Ultraviolet PAC,343181,L
-Republican Leadership for Oregon,342726,C
-Wingman PAC,337265,C
-Maine People PAC,335122,L
-San Manuel Band of Mission Indians,333236,X
-Protecting Our Values,333105,L
-Black Lives Matter PAC,331260,L
-Americans for Security PAC,328040,C
-Women's March Win,324696,L
-American Dental Assn Super PAC,323186,X
-Our Voice Our Vote Arizona PAC,318239,L
-Restore Oklahoma,317540,C
-Jewish Democratic Council of America,317197,L
-Made in America PAC,316376,C
-New American Voices,315614,L
-Protecting Our Vote,309380,L
-Rural Colorado United,308900,L
-Vote Values,306152,L
-Us Veterans Assistance Foundation,300000,C
-Right Now Usa,297000,C
-Cooperative of American Physicians,295734,X
-Honoring American Law Enforcement PAC,292283,C
-Jews Choose Four More Years,292057,C
-Communications Workers of America Working Voices,288936,L
-American Valor PAC,286910,C
-Our Future Is Black PAC,286465,L
-Pennsylvania Values,285000,L
-Stars & Stripes Forever PAC,280555,C
-CFG Action Montana,275227,C
-Drain the DC Swamp PAC,273007,C
-Citizens for a United New Mexico,268000,C
-Making Congress Great Again,267716,C
-American Jobs & Growth PAC,264834,C
-Independent Liberty PAC,263255,C
-Police Officers Defense Alliance,260000,C
-Ohio Freedom Fund,259999,C
-Defend Texas Fund,259020,C
-Planned Parenthood Alliance,257832,L
-Lone Star Forward,255200,L
-American Foundations Cmte,254000,C
-Fighting For Kansas PAC,251449,C
-Flip the Senate PAC,246402,L
-Voter Accountability Project,240086,C
-Veterans For Responsible Leadership,238232,L
-Energy Security PAC,233104,C
-New Prosperity Foundation,227896,C
-Jersey Real,224800,C
-Oregon Right To Life Victory PAC,223437,C
-Stand With Texas PAC,222500,C
-Firefighters Support Assn,222350,X
-Higher Heights Political Fund,220000,L
-Occupy Democrats Election Fund,217865,L
-Michigan Action,217504,L
-Civic PAC,216775,C
-Vote for Equality,216144,L
-American Values PAC,215671,L
-Humanity Forward Fund,211161,L
-Together We Thrive,208924,L
-Montana Wildlife Action Fund,207897,L
-Southern Strategy,205990,L
-Change Campaign Super PAC,204995,L
-Swamp Drainers Foundation,204728,C
-The Liberty PAC,202910,C
-Civic Innovation USA,200106,L
-Michigan Forward Action,198800,L
-Veterans Aid PAC,190624,X
-RuralVote.org,189808,L
-Desert Leadership Fund,188633,C
-Educators For Ohio,188612,L
-Honesty America Inc,188407,C
-Unite for Colorado Action,185000,C
-Families for Freedom PAC,180750,C
-"Liberty, Family, Future PAC",177906,C
-Principles Project,174500,L
-Reclaim Our Party,172362,L
-Blue Tide NY-1 LLC,168919,L
-New Hampshire Freedom Fund,167702,C
-Florida Homeowners Protection,161797,L
-Fight for the American Dream PAC,161673,L
-SG PAC,159637,C
-Onward South Carolina,158000,L
-One Tough Sheriff,154438,C
-Awake Carolina,153718,C
-Patriots Fund,153428,C
-Alliance for A Greater Minnesota,152465,C
-Make New Mexico Great PAC,152315,C
-Not Our Faith PAC,151556,L
-America's Future First,151525,L
-Equality California Votes,150338,L
-Conservatives For Effective Government,149798,C
-No Labels Action,149542,X
-Right for New York,148866,C
-Leadership For A Strong America,148667,C
-Blue Texas PAC,148201,L
-The Heartland PAC,142599,C
-Dream Defenders Fight PAC,142435,L
-Stand With Us Cmte,141775,L
-Local Voices,139997,L
-Texans Coming Together,138495,C
-Stop Socialism Now PAC,136386,C
-Latino Vote for America,132800,C
-Flip The West,131694,L
-The People's Campaign,131658,L
-Revive America PAC,130999,C
-Kansas Ag Communities Coalition,130197,C
-USW Works,129806,L
-Gun Rights America,126262,C
-One Nation United,126000,L
-Right for Alabama,121256,C
-Hardworking Americans Cmte,120908,C
-Laborers Union/Minnesota & North Dakota,118800,L
-New Hampshire Freedom & Liberty,118472,C
-"God, Guns, Life PAC",116847,C
-Truth Still Matters PAC,116482,C
-Courage California Super PAC,113416,L
-E Pluribus PAC,111878,L
-"Jobs, Opportunity & Freedom PAC",109464,C
-Undivided Purpose,106812,L
-Upstate Strong,103000,C
-Red Senate PAC,102297,C
-Black Men Vote,100000,L
-Valor Project,100000,C
-Democratic Coalition,98059,L
-C3 PAC,97345,C
-Hunter Nation Action,95926,C
-Stand Against Communism,95016,C
-Visual Disobedience Campaign Cmte,94883,L
-Rural Freedom Network,94518,L
-Elect Honest Leadership PAC,92982,L
-Bloc PAC,91896,L
-Heroes United PAC,90500,X
-I-PAC (Georgia),90416,L
-United Veterans Alliance of America,90000,X
-Stand for Truth,89500,C
-Concerned Citizens of Michigan,87413,L
-One APIA PAC,87044,L
-Conservatives for Alabama,87000,C
-Good Party,84997,X
-Democratic Frontline,83925,L
-Four More Years PAC,83885,C
-Faith Voters,83271,L
-Firefighters Alliance of America,82500,X
-Trusted Conservatives,82020,C
-Planned Parenthood Orange/San Bernardino,81795,L
-Save Our Senate,80750,C
-Community Health Council PAC,80700,X
-New Power PAC,77785,L
-National Immigrant Victory Fund,76009,L
-Blue Organizing Project,75000,L
-Losers & Suckers Vote,74978,L
-Lone Star Values PAC,74100,C
-Iowa Four PAC,72494,C
-American Coalition for Injured Veterans,72400,X
-Patriot Action Fund,71619,C
-Maine Outdoor Heritage PAC,71586,C
-Committee for Access to Affordable Healthcare,70650,L
-Autism Hear Us Now,70000,X
-Defend the Lehigh Valley,69785,C
-New Leadership for Virginia,69510,C
-Middle Class Fighting to Restore Arizona's Unity,69186,L
-United Police Officers Assn,69000,X
-Fight For America's Future PAC,68000,L
-National Horizon,67580,C
-Heroes PAC,67150,C
-Pennsylvania Common Sense,66287,L
-Seal PAC USA,66000,C
-Jobs Coalition Action Fund,65799,C
-A Great America PAC,64652,C
-Colorado Rising PAC,64350,C
-NYIC Political Action Fund,64143,L
-Keep Texas Great PAC,63294,C
-OpenSourceMT,63032,L
-United Against White Supremacy,62382,L
-Keeping Northeast Georgia Great,59295,C
-Hometown Values PAC,58945,L
-Toughest Fights PAC,56175,L
-SWPA Moving Forward,55849,L
-Save Our Senate PAC,55762,L
-The Last Draw,55473,L
-Liberty Leadership Fund,55458,C
-No Socialism PAC,55185,C
-Standing for Wisconsin Families,54460,C
-Michigan Liberation Action Fund,52093,L
-Protect the Vote,52044,L
-Progress United,52000,L
-Texas Right to Life,51531,C
-We Vote - Nosotros Votamos,50981,L
-Constitutional Leadership PAC,50485,C
-American Freedom Fund,50000,C
-Send In the Marine PAC,50000,C
-Nosotros PAC,48898,L
-LV Strong,48253,C
-American Veteran Society,47034,X
-ElevenThreeBlue,46126,L
-Championing America At Her Best,46086,C
-Late Breakers PAC,45414,L
-Jewish Unity PAC,43776,L
-Hoosier Heartland Fund,43700,C
-Conservatives for a Better North Carolina,43209,C
-Georgia Safe & Strong,40000,L
-Arizona Republicans Who Believe in Treating Others,39093,L
-New Moral Majority,38816,L
-Americans United for Values,38650,C
-Free & Fair Montana,38408,L
-Million More Voters,38300,L
-Unidos We Win PAC,38091,L
-Montana Next,37397,L
-Middle Resolution,36887,C
-Independents for Prosperity,36687,C
-Right to Life of Michigan Victory Fund,36524,C
-People of Principle,36168,L
-Let America Work,36072,C
-Courageous Conservatives PAC,35858,C
-California Moderate Voices,35000,L
-Conservative Outsiders PAC,35000,C
-Cops & Kids Together,35000,X
-The 99 Problems,35000,L
-Victory Fund,35000,C
-ATU Action Fund,34994,L
-Colorado's Working Families,34861,L
-IATSE Federal Speech PAC,34667,L
-Win America Back PAC,34667,L
-Jews Defending American Values,33776,L
-New Jersey Now Action Fund,33636,C
-Taking Action For Suffolk County,33000,L
-Middle Class Values PAC,32266,L
-Thank You PAC,31540,C
-Defenders PAC,31500,L
-Fair & Balanced PAC,30000,L
-Florida Eighth PAC,30000,C
-New Mexico Strong Fund,30000,C
-Americans for Accountability in Leadership,29653,C
-Georgia First PAC,29320,C
-Fight for Our Communities PAC,28000,L
-Truckers for Yang PAC,28000,L
-Amarillo Matters PAC,27982,C
-Farm Bureau PAC,27830,C
-America Votes Action Fund,27722,L
-Conservative Cattleman's PAC,27167,C
-Go Green Montana PAC,27090,C
-E Pluribus Unum PAC,26500,L
-Blue America PAC IE Cmte,26408,L
-Bold Future PAC,26027,L
-Perfect Together PAC,26000,C
-Revitalizing Our American Dreams PAC,25000,C
-Protect Long Island PAC,24000,C
-Together for Progress 2020,24000,L
-Orange County PAC,23798,L
-Next Senate PAC,23500,L
-Make Virginia Great Again,23074,C
-Miami-Dade Jewish Alliance for Positive Leadership,23040,C
-Bless Your Heart Coalition,22672,C
-Texas Freedom PAC,21609,C
-RelationPAC,21560,L
-Enough Is Enough Voter Project,21150,L
-Lead Right New Jersey,20897,C
-Chinese Progressive PAC,20841,L
-Committee For Defending American Values,20600,C
-Win the West,20186,L
-Big Tree PAC,20168,C
-America United,20000,C
-Blue Turnout Project,19406,L
-Conservative Triumph Fund,18948,C
-Women for a More Christian America,18524,L
-American Wounded Veterans PAC,18000,X
-Concerned Americans for America,17249,C
-Keep Florida Great PAC,17146,C
-Liberty For Us Super PAC,17000,C
-Chinese American Patriots,16500,C
-Montana Shooting Sports Assn,16126,C
-Bronx United,16000,L
-Patriotic Legal Immigrants USA,15780,C
-"Our Future, Our Fight PAC",15503,C
-Butterflypac,15219,L
-Save America Super PAC,14500,C
-Freedom For All PAC,14490,C
-Reinvesting In America 2020,14130,L
-Retired Americans PAC,14095,L
-Indiana Conservative Super PAC,13950,C
-Common Defense Action Fund,13724,L
-Texas Alliance for Life,13604,C
-Christians for the President,13577,C
-Keystone Conservatives for a Change,12720,C
-Defend Conservatives PAC,11656,C
-Georgia Blue Project,11499,L
-Everyday People PAC,11422,L
-Seniors for Affordable Healthcare PAC,11359,C
-FPC American Victory Fund,10656,C
-Concerned Citizen PAC,10448,C
-Freethought Equality Super PAC,10278,L
-America First Victory Fund,9847,C
-Make the Road Action,9428,L
-Don't Look Away Inc,8865,L
-Red White & Definitely Blue,8505,L
-Question PAC,8452,L
-Arizona Leadership Alliance,8340,C
-North Country PAC,8200,C
-Faith Family Freedom Fund,8114,C
-Restore Truth PAC,8000,C
-New American Populist PAC,7610,C
-Freedom & Prosperity Fund,7500,C
-Priority Action PAC,7000,C
-Regular People PAC,7000,L
-Immigrant Power PAC,6862,L
-North Carolina Values Coalition PAC,6445,C
-Restore Our Healthcare,6285,C
-Pennsylvania Victory Network,5783,C
-Judicial Fairness Project,5532,C
-Direct Selling Assn,5000,X
-No to Joe PAC,5000,C
-Secure the Border Super PAC,5000,C
-Jewish Floridians for America's Future,4950,C
-Senator In Name Only,4867,L
-Supreme Billboards,4770,L
-Clean Wave,4500,L
-Committee for Common Sense Votes in Pennsylvania,4500,L
-Disable the Enablers,4500,L
-New Beginnings PAC,4500,L
-Planned Parenthood/Los Angeles County,4158,L
-Climate Hawks Vote,4100,L
-Transport Workers Union Voice,4017,L
-End Police Brutality,4000,L
-Planned Parenthood/Pacific Southwest,3944,L
-Ixnay PAC,3913,L
-CD1 Alliance,3190,L
-Texas Patriots PAC,3165,C
-Keep Livingston Great,3157,C
-Oregon Progressive Delegates,2795,L
-No Stone Unturned PAC,2778,L
-Organizing Empowerment PAC,2750,L
-Conservatives Of PAC,2650,C
-He's Gotta Go PAC,2357,C
-Big Nudge PAC,2333,L
-Great Virginia PAC,2177,C
-Keep Texas Red,2084,C
-Service Matters PAC,2000,C
-Call to Action PAC,1883,L
-Phyllis Schlafly's Eagle PAC,1591,C
-People & Politics PAC,1542,C
-Our City Our Future PAC,1478,L
-Abundance for America,1209,L
-Young Leadership Coalition,1036,C
-With the Vote PAC,1027,L
-7Gen Leaders,1000,L
-Our America PAC (Illinois),1000,C
-Committee to Affect Change,784,L
-Change Congress Now/Cambio Congreso Ya,750,L
-Freedom Through Truth,732,C
-New Leaders Fund,650,X
-Citizens For An Undivided America,600,C
-Raise Up PAC,600,C
-Disarm the Deep State,590,C
-Millennials for Progress,550,L
-Best Days Ahead,489,L
-Rural & Red PAC,458,C
-Mid-MO For Bernie,409,L
-Guardian PAC,360,L
-The Shadow Projector,331,L
-Ohio Strong Action,325,C
-TJD PAC,250,L
-Making Us Great Again,244,L
-Sad Reality Acceptance Cmte,243,L
-Patriot Defenders of America,224,C
-One Chance Initiative,62,L
-Swing State PAC,50,L
-Silicon Slopes PAC,19,L
+Name,Lean,Money,Frequency
+PAC,C,241363307,110
+PAC,L,429538659,95
+Fund,C,503672832,39
+for,C,114401168,33
+America,C,244869148,25
+Action,L,57444841,24
+Fund,L,87658387,22
+for,L,37272390,21
+Action,C,257770795,20
+American,C,94447874,20
+Our,L,14203077,14
+Freedom,C,15706716,13
+United,L,9872500,13
+Conservatives,C,4501462,13
+New,C,2024094,13
+Leadership,C,437432925,12
+Great,C,15113696,12
+Vote,L,3129691,12
+America,L,6024952,11
+Victory,C,49119851,10
+&,L,13303103,10
+American,L,66966759,9
+The,L,67075661,9
+the,L,39990018,9
+Future,L,13704886,9
+Blue,L,6475981,9
+Right,C,4034243,9
+the,C,4180695,9
+Keep,C,15508976,8
+For,L,11110240,8
+&,C,3711112,8
+Values,L,2049686,8
+For,C,1148620,8
+Texas,C,636807,8
+Project,L,50803856,7
+Americans,C,34508500,7
+Planned,L,13067395,7
+Votes,L,26567212,7
+Coalition,C,6639213,7
+Our,C,5644041,7
+Win,L,7390996,7
+New,L,8637564,7
+Working,L,9084192,7
+Forward,L,8094781,7
+Liberty,C,3232093,7
+Black,L,35531275,6
+Change,L,10189469,6
+Cmte,L,5706150,6
+We,L,5366573,6
+Life,C,2900604,6
+Values,C,2741430,6
+of,L,3888013,6
+Michigan,L,2662066,6
+Conservative,C,2271546,6
+Super,L,3439844,6
+to,L,2086187,6
+Progress,L,2257112,6
+Strong,C,1196296,6
+Senate,C,296191229,5
+First,C,134912459,5
+Georgia,C,28534360,5
+Georgia,L,35627832,5
+Assn,X,14026029,5
+of,X,14207963,5
+Future,C,12605163,5
+Voters,L,11835869,5
+Leadership,L,9324632,5
+One,L,3189253,5
+People,L,1957325,5
+Committee,L,1918325,5
+Patriots,C,2246406,5
+Super,C,629825,5
+American,X,756354,5
+PAC,X,703010,5
+Alliance,C,457449,5
+Senate,L,230225830,4
+Majority,L,232439551,4
+Prosperity,C,32269487,4
+United,C,21113723,4
+Parenthood,L,12608479,4
+2020,L,12936473,4
+Citizens,C,8191192,4
+Matters,C,4653703,4
+Montana,L,4626352,4
+Arizona,L,4797024,4
+Project,C,3671799,4
+California,L,3021790,4
+Campaign,L,3113513,4
+Equality,L,3058737,4
+Families,L,4594640,4
+to,C,2069651,4
+America's,L,2797152,4
+Carolina,C,1335005,4
+in,L,1935051,4
+Pennsylvania,L,1267662,4
+Heartland,C,1359012,4
+a,C,842106,4
+Democratic,L,993019,4
+Mexico,C,854793,4
+Together,C,913789,4
+Voices,L,779547,4
+Veterans,X,371024,4
+Fight,L,400108,4
+Truth,C,214714,4
+Victory,L,63540205,3
+Country,L,46478562,3
+Security,C,14306975,3
+Climate,L,14364961,3
+Jewish,C,6083330,3
+Justice,L,7317714,3
+Union,L,5217234,3
+Alliance,L,4685291,3
+for,X,2920599,3
+Fair,L,2412481,3
+Iowa,C,3773462,3
+All,L,2812673,3
+Freedom,L,1685210,3
+Save,C,1319948,3
+Kansas,C,1447578,3
+Progressive,L,1079722,3
+More,C,1270846,3
+Dream,L,1078589,3
+Alabama,C,888556,3
+of,C,706691,3
+Valor,C,1051060,3
+Florida,C,703287,3
+Rural,L,1003806,3
+Workers,L,726584,3
+Concerned,C,452343,3
+USA,C,464264,3
+Restore,C,331825,3
+Foundation,C,732624,3
+Now,C,467022,3
+Four,C,448436,3
+Montana,C,318443,3
+Defend,C,340461,3
+Jersey,C,279333,3
+Stand,C,407016,3
+A,C,365784,3
+Red,C,104839,3
+United,X,249500,3
+Virginia,C,94761,3
+Common,L,84511,3
+North,C,57854,3
+County,L,60956,3
+Growth,C,65743255,2
+USA,L,56730526,2
+Unite,L,39625272,2
+Women,L,36788202,2
+Women,C,15177308,2
+Better,C,11685133,2
+Michigan,C,11678448,2
+Against,L,9021273,2
+Trump,L,9981465,2
+Protect,C,8661504,2
+Now,L,9874958,2
+Back,L,8093793,2
+North,L,7064198,2
+Star,L,7200598,2
+Fund,X,6521347,2
+Republican,C,6398066,2
+Somos,L,9676860,2
+Advocacy,L,6640100,2
+State,L,5298582,2
+Carolina,L,4676796,2
+Opportunity,C,4616703,2
+a,L,4442793,2
+Minnesota,L,5026634,2
+Independent,L,5858344,2
+Affordable,L,3774129,2
+Maine,C,3621990,2
+Center,L,4162061,2
+Defending,C,3344827,2
+UNITE,L,3512774,2
+HERE,L,3512774,2
+Save,L,3075452,2
+Faith,C,2936401,2
+National,C,2526241,2
+To,C,2682098,2
+Americans,X,2848199,2
+Party,L,2261947,2
+President,C,1990173,2
+Gun,C,2077563,2
+Truth,L,2164375,2
+Colorado,L,1808147,2
+Matter,L,1779494,2
+Standing,C,1380575,2
+With,C,1548615,2
+Texas,L,1400194,2
+Protect,L,1294047,2
+US,C,1642696,2
+South,C,1787774,2
+Tea,C,1556917,2
+Party,C,1556917,2
+"Jobs,",C,1004368,2
+Government,C,1044702,2
+Congress,C,1126938,2
+Turnout,L,835491,2
+Nurses,L,1167173,2
+South,L,889684,2
+Fighting,C,931749,2
+Communities,L,628388,2
+Law,C,810460,2
+Enforcement,C,810460,2
+Up,C,488669,2
+Initiative,L,444498,2
+Police,X,499500,2
+&,X,465500,2
+Inc,C,613053,2
+Local,L,539967,2
+Hunter,C,488089,2
+Ag,C,515737,2
+National,L,458411,2
+Protection,L,544199,2
+Americans,L,393095,2
+One,C,529438,2
+Florida,L,524141,2
+Veterans,C,657724,2
+Pennsylvania,C,356059,2
+Oregon,C,566163,2
+Protecting,L,642485,2
+Voice,L,322256,2
+Jewish,L,360973,2
+in,C,346029,2
+Us,C,317000,2
+Years,C,375942,2
+Is,L,307615,2
+Swamp,C,477735,2
+Again,C,290790,2
+Jobs,C,330633,2
+Ohio,C,260324,2
+Cmte,C,374908,2
+Flip,L,378096,2
+Accountability,C,269739,2
+Firefighters,X,304850,2
+Political,L,284143,2
+Together,L,232924,2
+The,C,345509,2
+Colorado,C,249350,2
+Families,C,235210,2
+Hampshire,C,286174,2
+Make,C,175389,2
+Faith,L,234827,2
+Defenders,L,173935,2
+With,L,142802,2
+Us,L,142019,2
+Socialism,C,191571,2
+West,L,151880,2
+E,L,138378,2
+Pluribus,L,138378,2
+Alliance,X,172500,2
+America,X,172500,2
+Power,L,84647,2
+Immigrant,L,82871,2
+Organizing,L,77750,2
+Patriot,C,71843,2
+Middle,L,101452,2
+Class,L,101452,2
+Unity,L,112962,2
+Sense,L,70787,2
+White,L,70887,2
+No,C,60185,2
+Nosotros,L,99879,2
+More,L,56824,2
+Next,L,60897,2
+Go,C,29447,2
+Enough,L,42300,2
+In,L,18997,2
+Healthcare,C,17644,2
+Congressional,C,142783829,1
+Preserve,C,102983479,1
+Crossroads,C,79476031,1
+Club,C,65478421,1
+Bridge,L,59719576,1
+21st,L,59719576,1
+Century,L,59719576,1
+Independence,L,56530420,1
+Lincoln,L,49686216,1
+LCV,L,42266508,1
+Peachtree,C,37845500,1
+Vote!,L,36769678,1
+Everytown,L,21197688,1
+Gun,L,21197688,1
+Safety,L,21197688,1
+Restoration,C,19777016,1
+NRA,C,19497530,1
+Honor,L,19220880,1
+DefendArizona,C,17048886,1
+Family,L,16012716,1
+Friendly,L,16012716,1
+Way,L,15737253,1
+Plains,C,15059744,1
+Persist,L,14784334,1
+Speak,C,14501237,1
+Out,C,14501237,1
+Is,C,13745831,1
+Strength,C,13745831,1
+National,X,13406493,1
+Realtors,X,13406493,1
+Pacronym,L,13171426,1
+Kentucky,C,13044662,1
+NextGen,L,12580380,1
+1820,C,10387507,1
+EDF,L,9861628,1
+Republican,L,8958891,1
+Take,L,8059126,1
+Free,C,6904675,1
+Enterprise,C,6904675,1
+Duty,L,6622923,1
+Ending,C,6554317,1
+Spending,C,6554317,1
+With,X,6520697,1
+Honor,X,6520697,1
+House,C,6130380,1
+NEA,L,5534657,1
+Century,C,5500000,1
+Nuestro,L,5344916,1
+Sunflower,L,5298532,1
+Americas,C,5156549,1
+Better,L,4424269,1
+Hunters,L,4342650,1
+Anglers,L,4342650,1
+Votantes,L,3983541,1
+Sierra,L,3739145,1
+Club,L,3739145,1
+Patients,L,3703479,1
+Drugs,L,3703479,1
+Future45,C,3686908,1
+Way,C,3550404,1
+Can,L,3357353,1
+Jobs,L,3351017,1
+Principles,C,3326181,1
+Main,C,3324227,1
+Street,C,3324227,1
+NRDC,L,3298452,1
+Power,C,2928287,1
+FreedomWorks,C,2783755,1
+Kitchen,L,2710262,1
+Table,L,2710262,1
+Conversations,L,2710262,1
+Human,L,2681977,1
+Rights,L,2681977,1
+Balance,C,2575000,1
+Meidastouch,L,2521567,1
+Tomorrow's,X,2417699,1
+Future,X,2417699,1
+Share,L,2344073,1
+Alaska,L,2119199,1
+Black,C,1976596,1
+Re-Elect,C,1976596,1
+True,X,1957857,1
+Kentucky,X,1957857,1
+Patriots,X,1957857,1
+Owners,C,1951301,1
+Hard,L,1836488,1
+Hats,L,1836488,1
+Act,L,1780481,1
+On,L,1780481,1
+Moms,C,1779137,1
+Safe,C,1779137,1
+Neighborhoods,C,1779137,1
+Outsider,C,1597106,1
+Rising,L,1567613,1
+Let's,L,1499247,1
+Turn,L,1499247,1
+Supermajority,L,1496513,1
+Priorities,C,1496504,1
+Millions,L,1432042,1
+Michiganians,L,1432042,1
+LMG,L,1419955,1
+ClearPath,C,1409800,1
+Governing,C,1360402,1
+Majority,C,1360402,1
+Community,L,1307173,1
+Medicare,L,1242003,1
+NARAL,L,1228348,1
+Defeat,L,1200000,1
+by,L,1200000,1
+Tweet,L,1200000,1
+Asian,L,1105443,1
+Promise,L,1056086,1
+Really,L,1050964,1
+Care,L,1024340,1
+Doomsday,L,1022574,1
+Patriot,L,979028,1
+Votar,L,944027,1
+Es,L,944027,1
+Poder,L,944027,1
+Illinois,C,910100,1
+Less,C,894904,1
+Casa,L,867118,1
+Grow,C,866051,1
+NC,C,866051,1
+Fix,C,859222,1
+Now!,C,859222,1
+Collective,L,811858,1
+Louisiana,C,798200,1
+Legacy,C,798200,1
+Resurgence,C,790229,1
+Stop,L,780318,1
+45,L,780318,1
+Essential,L,763319,1
+Information,L,763319,1
+ProgressNow,L,729519,1
+Miles,C,669943,1
+Greatness,C,669943,1
+Residents,C,656141,1
+Battleground,L,618200,1
+TakeAction,L,602365,1
+Stronger,L,600388,1
+Policy,C,594990,1
+Artists,L,581290,1
+Union,C,579375,1
+Just,L,571167,1
+Take,C,567442,1
+Back,C,567442,1
+West,C,567442,1
+Special,C,546016,1
+Operations,C,546016,1
+Experienced,L,532620,1
+Matters,L,532620,1
+Safer,C,518177,1
+Unidosus,L,489626,1
+Unity,C,489248,1
+Fired,C,488069,1
+Nine,L,486178,1
+MATH,L,475991,1
+Parenthood/Minnesota,L,450814,1
+Democracy,L,444436,1
+Preservation,L,444436,1
+Environment,L,439981,1
+Grit,C,438580,1
+Food,L,433631,1
+Commercial,L,433631,1
+Advcy,L,433631,1
+Trooper,X,430500,1
+Safety,X,430500,1
+Common,C,404478,1
+Sense,C,404478,1
+6,L,399970,1
+Economic,L,389574,1
+Patient,L,382402,1
+Career,C,380000,1
+Education,C,380000,1
+Journey,C,374712,1
+Operating,L,374000,1
+Engineers,L,374000,1
+EARN,L,374000,1
+Acting,C,363754,1
+Leaders,C,362385,1
+FedUp,C,348877,1
+Ultraviolet,L,343181,1
+Wingman,C,337265,1
+Maine,L,335122,1
+San,X,333236,1
+Manuel,X,333236,1
+Band,X,333236,1
+Mission,X,333236,1
+Indians,X,333236,1
+Lives,L,331260,1
+Women's,L,324696,1
+March,L,324696,1
+Dental,X,323186,1
+Super,X,323186,1
+Oklahoma,C,317540,1
+Council,L,317197,1
+Made,C,316376,1
+Assistance,C,300000,1
+Usa,C,297000,1
+Cooperative,X,295734,1
+Physicians,X,295734,1
+Honoring,C,292283,1
+Jews,C,292057,1
+Choose,C,292057,1
+Communications,L,288936,1
+Stars,C,280555,1
+Stripes,C,280555,1
+Forever,C,280555,1
+CFG,C,275227,1
+Drain,C,273007,1
+DC,C,273007,1
+Making,C,267716,1
+Independent,C,263255,1
+Police,C,260000,1
+Officers,C,260000,1
+Defense,C,260000,1
+Lone,L,255200,1
+Foundations,C,254000,1
+Voter,C,240086,1
+Veterans,L,238232,1
+Responsible,L,238232,1
+Energy,C,233104,1
+Real,C,224800,1
+Support,X,222350,1
+Higher,L,220000,1
+Heights,L,220000,1
+Occupy,L,217865,1
+Democrats,L,217865,1
+Election,L,217865,1
+Civic,C,216775,1
+Humanity,L,211161,1
+Thrive,L,208924,1
+Wildlife,L,207897,1
+Southern,L,205990,1
+Strategy,L,205990,1
+Drainers,C,204728,1
+Civic,L,200106,1
+Innovation,L,200106,1
+Aid,X,190624,1
+RuralVote.org,L,189808,1
+Desert,C,188633,1
+Educators,L,188612,1
+Ohio,L,188612,1
+Honesty,C,188407,1
+Unite,C,185000,1
+"Liberty,",C,177906,1
+"Family,",C,177906,1
+Principles,L,174500,1
+Reclaim,L,172362,1
+Tide,L,168919,1
+NY-1,L,168919,1
+LLC,L,168919,1
+Homeowners,L,161797,1
+SG,C,159637,1
+Onward,L,158000,1
+Tough,C,154438,1
+Sheriff,C,154438,1
+Awake,C,153718,1
+Greater,C,152465,1
+Minnesota,C,152465,1
+Not,L,151556,1
+First,L,151525,1
+Effective,C,149798,1
+No,X,149542,1
+Labels,X,149542,1
+Action,X,149542,1
+York,C,148866,1
+Stand,L,141775,1
+Texans,C,138495,1
+Coming,C,138495,1
+Stop,C,136386,1
+Latino,C,132800,1
+Vote,C,132800,1
+People's,L,131658,1
+Revive,C,130999,1
+Communities,C,130197,1
+USW,L,129806,1
+Works,L,129806,1
+Rights,C,126262,1
+Nation,L,126000,1
+Hardworking,C,120908,1
+Laborers,L,118800,1
+Union/Minnesota,L,118800,1
+Dakota,L,118800,1
+"God,",C,116847,1
+"Guns,",C,116847,1
+Still,C,116482,1
+Courage,L,113416,1
+Undivided,L,106812,1
+Purpose,L,106812,1
+Upstate,C,103000,1
+Men,L,100000,1
+Coalition,L,98059,1
+C3,C,97345,1
+Nation,C,95926,1
+Against,C,95016,1
+Communism,C,95016,1
+Visual,L,94883,1
+Disobedience,L,94883,1
+Network,L,94518,1
+Elect,L,92982,1
+Honest,L,92982,1
+Bloc,L,91896,1
+Heroes,X,90500,1
+I-PAC,L,90416,1
+(Georgia),L,90416,1
+Concerned,L,87413,1
+Citizens,L,87413,1
+APIA,L,87044,1
+Good,X,84997,1
+Party,X,84997,1
+Frontline,L,83925,1
+Trusted,C,82020,1
+Orange/San,L,81795,1
+Bernardino,L,81795,1
+Community,X,80700,1
+Health,X,80700,1
+Council,X,80700,1
+Losers,L,74978,1
+Suckers,L,74978,1
+Lone,C,74100,1
+Star,C,74100,1
+Coalition,X,72400,1
+Injured,X,72400,1
+Outdoor,C,71586,1
+Heritage,C,71586,1
+Access,L,70650,1
+Healthcare,L,70650,1
+Autism,X,70000,1
+Hear,X,70000,1
+Us,X,70000,1
+Now,X,70000,1
+Lehigh,C,69785,1
+Valley,C,69785,1
+Fighting,L,69186,1
+Restore,L,69186,1
+Arizona's,L,69186,1
+Officers,X,69000,1
+Horizon,C,67580,1
+Heroes,C,67150,1
+Seal,C,66000,1
+Rising,C,64350,1
+NYIC,L,64143,1
+OpenSourceMT,L,63032,1
+Supremacy,L,62382,1
+Keeping,C,59295,1
+Northeast,C,59295,1
+Hometown,L,58945,1
+Toughest,L,56175,1
+Fights,L,56175,1
+SWPA,L,55849,1
+Moving,L,55849,1
+Last,L,55473,1
+Draw,L,55473,1
+Wisconsin,C,54460,1
+Liberation,L,52093,1
+-,L,50981,1
+Votamos,L,50981,1
+Constitutional,C,50485,1
+Send,C,50000,1
+In,C,50000,1
+Marine,C,50000,1
+LV,C,48253,1
+Veteran,X,47034,1
+Society,X,47034,1
+ElevenThreeBlue,L,46126,1
+Championing,C,46086,1
+At,C,46086,1
+Her,C,46086,1
+Best,C,46086,1
+Late,L,45414,1
+Breakers,L,45414,1
+Hoosier,C,43700,1
+Safe,L,40000,1
+Strong,L,40000,1
+Republicans,L,39093,1
+Who,L,39093,1
+Believe,L,39093,1
+Treating,L,39093,1
+Others,L,39093,1
+Moral,L,38816,1
+Free,L,38408,1
+Million,L,38300,1
+Unidos,L,38091,1
+Middle,C,36887,1
+Resolution,C,36887,1
+Independents,C,36687,1
+Principle,L,36168,1
+Let,C,36072,1
+Work,C,36072,1
+Courageous,C,35858,1
+Moderate,L,35000,1
+Outsiders,C,35000,1
+Cops,X,35000,1
+Kids,X,35000,1
+Together,X,35000,1
+99,L,35000,1
+Problems,L,35000,1
+ATU,L,34994,1
+Colorado's,L,34861,1
+IATSE,L,34667,1
+Federal,L,34667,1
+Speech,L,34667,1
+Jews,L,33776,1
+Defending,L,33776,1
+Taking,L,33000,1
+Suffolk,L,33000,1
+Thank,C,31540,1
+You,C,31540,1
+Balanced,L,30000,1
+Eighth,C,30000,1
+Truckers,L,28000,1
+Yang,L,28000,1
+Amarillo,C,27982,1
+Farm,C,27830,1
+Bureau,C,27830,1
+Cattleman's,C,27167,1
+Green,C,27090,1
+Unum,L,26500,1
+IE,L,26408,1
+Bold,L,26027,1
+Perfect,C,26000,1
+Revitalizing,C,25000,1
+Dreams,C,25000,1
+Long,C,24000,1
+Island,C,24000,1
+Orange,L,23798,1
+Miami-Dade,C,23040,1
+Positive,C,23040,1
+Bless,C,22672,1
+Your,C,22672,1
+Heart,C,22672,1
+RelationPAC,L,21560,1
+Voter,L,21150,1
+Lead,C,20897,1
+Chinese,L,20841,1
+Committee,C,20600,1
+Big,C,20168,1
+Tree,C,20168,1
+Triumph,C,18948,1
+Christian,L,18524,1
+Wounded,X,18000,1
+Chinese,C,16500,1
+Shooting,C,16126,1
+Sports,C,16126,1
+Assn,C,16126,1
+Bronx,L,16000,1
+Patriotic,C,15780,1
+Legal,C,15780,1
+Immigrants,C,15780,1
+"Future,",C,15503,1
+Fight,C,15503,1
+Butterflypac,L,15219,1
+All,C,14490,1
+Reinvesting,L,14130,1
+Retired,L,14095,1
+Indiana,C,13950,1
+Defense,L,13724,1
+Christians,C,13577,1
+Keystone,C,12720,1
+Change,C,12720,1
+Everyday,L,11422,1
+Seniors,C,11359,1
+Affordable,C,11359,1
+FPC,C,10656,1
+Citizen,C,10448,1
+Freethought,L,10278,1
+Make,L,9428,1
+Road,L,9428,1
+Don't,L,8865,1
+Look,L,8865,1
+Away,L,8865,1
+Inc,L,8865,1
+Red,L,8505,1
+Definitely,L,8505,1
+Question,L,8452,1
+Arizona,C,8340,1
+Country,C,8200,1
+Family,C,8114,1
+Populist,C,7610,1
+Priority,C,7000,1
+Regular,L,7000,1
+Network,C,5783,1
+Judicial,C,5532,1
+Fairness,C,5532,1
+Direct,X,5000,1
+Selling,X,5000,1
+Joe,C,5000,1
+Secure,C,5000,1
+Border,C,5000,1
+Floridians,C,4950,1
+America's,C,4950,1
+Senator,L,4867,1
+Name,L,4867,1
+Only,L,4867,1
+Supreme,L,4770,1
+Billboards,L,4770,1
+Clean,L,4500,1
+Wave,L,4500,1
+Disable,L,4500,1
+Enablers,L,4500,1
+Beginnings,L,4500,1
+Parenthood/Los,L,4158,1
+Angeles,L,4158,1
+Hawks,L,4100,1
+Transport,L,4017,1
+End,L,4000,1
+Police,L,4000,1
+Brutality,L,4000,1
+Parenthood/Pacific,L,3944,1
+Southwest,L,3944,1
+Ixnay,L,3913,1
+CD1,L,3190,1
+Livingston,C,3157,1
+Oregon,L,2795,1
+Delegates,L,2795,1
+No,L,2778,1
+Stone,L,2778,1
+Unturned,L,2778,1
+Empowerment,L,2750,1
+Of,C,2650,1
+He's,C,2357,1
+Gotta,C,2357,1
+Big,L,2333,1
+Nudge,L,2333,1
+Service,C,2000,1
+Call,L,1883,1
+Phyllis,C,1591,1
+Schlafly's,C,1591,1
+Eagle,C,1591,1
+People,C,1542,1
+Politics,C,1542,1
+City,L,1478,1
+Abundance,L,1209,1
+Young,C,1036,1
+7Gen,L,1000,1
+Leaders,L,1000,1
+(Illinois),C,1000,1
+Affect,L,784,1
+Congress,L,750,1
+Now/Cambio,L,750,1
+Congreso,L,750,1
+Ya,L,750,1
+Through,C,732,1
+New,X,650,1
+Leaders,X,650,1
+An,C,600,1
+Undivided,C,600,1
+Raise,C,600,1
+Disarm,C,590,1
+Deep,C,590,1
+State,C,590,1
+Millennials,L,550,1
+Best,L,489,1
+Days,L,489,1
+Ahead,L,489,1
+Rural,C,458,1
+Mid-MO,L,409,1
+Bernie,L,409,1
+Guardian,L,360,1
+Shadow,L,331,1
+Projector,L,331,1
+TJD,L,250,1
+Making,L,244,1
+Great,L,244,1
+Again,L,244,1
+Sad,L,243,1
+Reality,L,243,1
+Acceptance,L,243,1
+Defenders,C,224,1
+Chance,L,62,1
+Swing,L,50,1
+Silicon,L,19,1
+Slopes,L,19,1
